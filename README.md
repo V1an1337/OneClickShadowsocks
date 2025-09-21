@@ -7,7 +7,7 @@ This project provide a script that can automatically install [shadowsocks-libev]
 Install shadowsocks on your server:
 
 ```shell
-bash <(curl -fsSL https://github.com/V1an1337/OneClickShadowsocks/blob/main/ss.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/V1an1337/OneClickShadowsocks/refs/heads/main/ss.sh)
 ```
 
 In Mainland China:
